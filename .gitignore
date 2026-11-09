@@ -1,0 +1,8 @@
+# This repo is public — no learner data, transcripts, or generated reports here.
+# That lives in the private soakelepf/personal repo instead.
+/outputs/
+*.xlsx
+*.xlsm
+*.parquet
+*.csv
+*.tsv
